@@ -22,7 +22,7 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=yonesjodeyri&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
 <br><br>
 
-# My planning
+# 🎯 My planning
 <br>
 
 | I am learning it. | I'll learn it later. |
