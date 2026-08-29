@@ -6,20 +6,29 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yonesjodeyri) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@Yonesjodeyri) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yonesjodeyri904@gmail.com) 
-<br>
+<br><br>
 
-<a>
-<img src="https://skillicons.dev/icons?i=html,css,sass,python,js,git,github,vscode,figma,regex"/> 
-<a>
+| Languages | Framwork & Tools & ... |
+| :--: | :--: |
+| <img src="https://skillicons.dev/icons?i=html,css,python"/> | <img src="https://skillicons.dev/icons?i=git,github,sass,vscode,figma,regex"/> |
+
 <br><br>
 
 # 📊 GitHub Stats: 
+<br>
   
 ![](https://streak-stats.demolab.com/?user=yonesjodeyri&theme=tokyonight&hide_border=false)
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=yonesjodeyri&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
+<br><br>
 
----
+# My planning
+<br>
 
-[![](https://komarev.com/ghpvc/?username=yonesjodeyri&icon=2&color=3)](https://visitcount.itsvg.in)
+| I am learning it. | I'll learn it later. |
+| :--: | :--: |
+| <img src="https://skillicons.dev/icons?i=js"/> | <img src="https://skillicons.dev/icons?i=django,react,tailwind,bootstrap,mysql,mongodb"/> |
+
+
+<!-- [![](https://komarev.com/ghpvc/?username=yonesjodeyri&icon=2&color=3)](https://visitcount.itsvg.in) -->
 <div>
