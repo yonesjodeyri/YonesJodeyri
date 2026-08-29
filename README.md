@@ -40,3 +40,6 @@ STU . 15 Years old
 </div>
 
 [![](https://komarev.com/ghpvc/?username=yonesjodeyri&icon=2&color=3)](https://visitcount.itsvg.in)
+
+
+![GitHub Snake](https://raw.githubusercontent.com/yonesjodeyri/yonesjodeyri/output/github-snake.svg)
