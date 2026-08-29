@@ -18,6 +18,7 @@
 ---
 <!-- [![](https://komarev.com/ghpvc/?username=yonesjodeyri&icon=2&color=3)](https://visitcount.itsvg.in) -->
 ## 🐍 Contribution Snake
-![GitHub Snake](https://raw.githubusercontent.com/yonesjodeyri/yonesjodeyri/output/github-snake.svg)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yonesjodeyri/yonesjodeyri/output/github-snake.svg" alt="GitHub Snake">
+</p>
 </div>
