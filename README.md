@@ -20,4 +20,23 @@ STU . 15 Years old
 
 ---
 
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ThamyresPadilha/ThamyresPadilha/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ThamyresPadilha/ThamyresPadilha/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="Animação das contribuições GitHub de Thamyres Padilha"
+    src="https://raw.githubusercontent.com/ThamyresPadilha/ThamyresPadilha/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+</div>
+
 [![](https://komarev.com/ghpvc/?username=yonesjodeyri&icon=2&color=3)](https://visitcount.itsvg.in)
