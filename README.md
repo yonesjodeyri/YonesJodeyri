@@ -10,7 +10,7 @@
 
 | Languages | Framwork & Tools & ... |
 | :--: | :--: |
-| <img src="https://skillicons.dev/icons?i=html,css,python"/> | <img src="https://skillicons.dev/icons?i=git,github,sass,vscode,figma,regex"/> |
+| <img src="https://skillicons.dev/icons?i=html,css,python"/> | <img src="https://skillicons.dev/icons?i=git,github,sass,tailwind,vscode,figma,regex"/> |
 
 <br><br>
 
@@ -27,7 +27,7 @@
 
 | I am learning it. | I'll learn it later. |
 | :--: | :--: |
-| <img src="https://skillicons.dev/icons?i=js"/> | <img src="https://skillicons.dev/icons?i=django,react,tailwind,bootstrap,mysql,mongodb"/> |
+| <img src="https://skillicons.dev/icons?i=js"/> | <img src="https://skillicons.dev/icons?i=django,react,bootstrap,mysql,mongodb"/> |
 
 
 <!-- [![](https://komarev.com/ghpvc/?username=yonesjodeyri&icon=2&color=3)](https://visitcount.itsvg.in) -->
